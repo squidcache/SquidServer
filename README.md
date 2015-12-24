@@ -1,6 +1,6 @@
 # Build a Squid Service from source code
 
-> Please note that this whole manual refers to the version **3.5.11** of Squid. You probably would have to adapt some commands to the version you will actually download.
+> Please note that this whole manual refers to the version **4.0.3** of Squid. You probably would have to adapt some commands to the version you will actually download.
 
 ## Table of contents
 
@@ -62,8 +62,8 @@ aptitude build-dep squid3
 ```
 cd /usr/src
 wget http://master.dl.sourceforge.net/project/china-badou/SquidServer/squid-4.0.3.tar.gz
-tar zxvf squid-3.5.5.tar.gz
-cd squid-3.5.5
+tar zxvf squid-4.0.3.tar.gz
+cd squid-4.0.3
 
 ```
 
