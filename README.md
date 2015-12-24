@@ -10,7 +10,7 @@
 * [Manual Install](#manual-install)
   * [Resolve compilation dependencies](#resolve-compilation-dependencies)
   * [Grab a copy of the source code](#grab-a-copy-of-the-source-code)
-  * [Compile your Squid 3](#compile-your-squid-4)
+  * [Compile your Squid 4](#compile-your-squid-4)
   * [Resolve library dependencies](#resolve-library-dependencies)
   * [Build configuration file](#build-configuration-file)
   * [Build service runtime](#build-service-runtime)
