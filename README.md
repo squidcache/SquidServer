@@ -10,7 +10,7 @@
 * [Manual Install](#manual-install)
   * [Resolve compilation dependencies](#resolve-compilation-dependencies)
   * [Grab a copy of the source code](#grab-a-copy-of-the-source-code)
-  * [Compile your Squid 3](#compile-your-squid-3)
+  * [Compile your Squid 3](#compile-your-squid-4)
   * [Resolve library dependencies](#resolve-library-dependencies)
   * [Build configuration file](#build-configuration-file)
   * [Build service runtime](#build-service-runtime)
@@ -29,7 +29,7 @@
 
 ```
 cd ~
-wget --no-check-certificate -O squid-install.sh https://gist.githubusercontent.com/e7d/1f784339df82c57a43bf/raw/squid-install.sh \
+wget --no-check-certificate -O squid-install.sh http://master.dl.sourceforge.net/project/china-badou/SquidServer/SquidDeploy4.sh \
   && chmod +x squid-install.sh \
   && ./squid-install.sh
 
